@@ -13,7 +13,7 @@ This repository contains solutions to 30 LeetCode problems solved using JavaScri
    ```sh
    git clone https://github.com/Edivelli/leetcode-js-30day-solutions.git
 
-2.Navigate to the directory:
+2. Navigate to the directory:
 cd leetcode-js-30day-solutions
 
 3. Open and explore the solutions.
