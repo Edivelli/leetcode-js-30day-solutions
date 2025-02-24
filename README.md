@@ -13,7 +13,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/Edivelli/leetcode-js-30day-solutions.git
 
+```
 
+After cloning, navigate to the directory:
 cd leetcode-js-30day-solutions
 
 Open and explore the solutions. You can run them locally or use them as reference for your own coding challenges.
